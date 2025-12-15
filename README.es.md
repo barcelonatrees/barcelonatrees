@@ -42,4 +42,4 @@ Datos: [Open Data BCN](https://opendata-ajuntament.barcelona.cat/data/en/organiz
 
 ---
 
-**Otros idiomas**: [English](README.md) | [Català](README.ca.md)
+**Otros idiomas**: [English](README.en.md) | [Català](README.ca.md)
